@@ -1,9 +1,9 @@
 {
-  "private": true,
   "name": "richflyer",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "The SDK that can easily use RichFlyer API",
   "main": "index.js",
+  "repository": "github:INFOCITY/richflyer-api-sdk",
   "scripts": {
     "test": "test"
   },
