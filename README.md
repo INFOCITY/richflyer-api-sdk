@@ -1,7 +1,7 @@
 # RichFlyer SDK
 
 ## Overview
-This SDK can easily use RichFlyer API.<br>
+This SDK can easily use [RichFlyer API](https://richflyer.net/sdk/manual/api/index.html).<br>
 [RichFlyer](https://richflyer.net) is messaging service that can send message to push notification, twitter, facebook simultaneously and can attach the rich contents like movie, gif, image.
 
 ## Installation
@@ -12,6 +12,7 @@ npm install richflyer
 ## Prerequisites
 * User should have RichFlyer Account. If you don't have an account, 
 Please contact us from [here](https://richflyer.net).
+* RichFlyer API document is [here](https://richflyer.net/sdk/manual/api/index.html).
 
 ## Usage
 ``` js
