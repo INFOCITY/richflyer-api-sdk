@@ -1,6 +1,6 @@
 {
   "name": "richflyer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The SDK that can easily use RichFlyer API",
   "main": "index.js",
   "repository": "github:INFOCITY/richflyer-api-sdk",
@@ -8,7 +8,7 @@
     "test": "test"
   },
   "author": "INFOCITY, Inc.",
-  "license" : "SEE LICENSE IN LICENSE",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "node-fetch": "^2.6.0",
     "form-data": "^3.0.0"
