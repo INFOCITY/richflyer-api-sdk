@@ -1,46 +1,56 @@
-本規約は、株式会社インフォシティ（以下「当社」といいます）が提供する「RichFlyerサービス」（以下「本サービス」といいます）における「RichFlyer SDK」（以下「本SDK」といいます）の利用について定めるものです。本規約に同意いただいた場合のみ本SDKをご利用できるものとします。 
+RichFlyer SDK Terms of Use
 
-第1条（用語定義） 本規約上で使用する用語の定義は、次に掲げるとおりとします。 
-(1) 本サービス   スマートフォンやウェブブラウザへのプッシュ通知の作成、配信、受信およびSNSへのメッセージの作成、投稿を同時に実施できるサービス 
-(2) 本SDK   RichFlyerサービスを利用するために、当社が開発者に対して提供するスマートフォンアプリケーション用ソフトウェア開発キットおよびウェブアプリケーション用ライブラリ 
-(3) 開発アプリ   本SDKを組み込んで開発されたスマートフォンアプリケーションおよびウェブアプリケーション 
-(4) 運営者   本サービスを利用してプッシュ通知の作成、配信、およびSNSへのメッセージ作成、投稿を実施する方、開発アプリをユーザーに提供する主体者 
-(5) 開発者   RichFlyer SDKを利用してスマートフォンアプリケーションおよびウェブアプリケーションを開発する方 
-(6) ユーザー   開発アプリを利用するエンドユーザー 
+This agreement governs the use of the RichFlyer SDK (hereinafter referred to as the "SDK") in the RichFlyer Service (hereinafter referred to as the "Service") provided by INFOCITY, Inc. (hereinafter referred to as "the Company"). The SDK can only be used when you shall agree to these Terms. 
 
-第2条（本規約への同意） 
-1. 開発者は、本規約に同意頂いた上で本SDKを利用できるものとします。 
-2. 本規約は、「RichFlyerサービス利用規約」とあわせて適用されるものとし、本規約とRichFlyerサービス利用規約との間で矛盾等がある場合は、本規約が優先して適用されるものとします。 
+Article 1 (Definitions)
+The terms used in these Terms of Use are defined as follows 
+1. The Service: RichFlyer Service that allows Operators to create, distribute and receive push notifications to mobilephones, tablet computers and web browsers as well as create and post messages to social networking sites at the same time 
+2. The SDK: Software Development Kits for mobilephone applications, tablet computer applications and web applications libraries provided by the Company to developers in order to use this SDK RichFlyer Service 
+3. Developed Applications: Mobilephone applications, tablet computer applications and web applications that are developed with this SDK 
+4. Operators: Those who use the Service to create and distribute push notifications, create and post messages to SNS, and provide applications to users
+5. Developers: To develop mobilephones, tablet computers and web applications using the RichFlyer SDK 
+6. Users: End users of the developed applications
 
-第3条（本SDKの提供） 
-1. 当社は、本利用規約の定める条件に従って、開発者に対し本SDKの非独占的な使用権を許諾します。 
-2. 開発者は、当社が定めた方法に沿って本SDKを入手することができます。 
-3. 開発者は、利用登録の際に当社より発行されるサービスキーを厳重に保管し、これを第三者に使用させてはなりません。 
-4. 当社は、当社の判断によりSDKのバージョンアップを行います。この場合、当社は本SDKの旧バージョンに対するサポートを中止することがあります。また、スマートフォンに搭載されるOSやウェブブラウザのアップデートに伴い、本SDKの利用条件を変更する場合があります。 
+Article 2 (Consent to these Terms)
+1. The Developer shall use the SDK upon agreeing to these Terms of Service. 
+2. The Developer shall be deemed to have accepted these terms by clicking to agree with these Terms of Service.
+3. This Agreement shall be applicable in conjunction with the RichFlyer Terms of Service, and by agreeing to this Agreement, you agree to the RichFlyer Terms of Service. If there is any inconsistency between these Terms of Service and the RichFlyer Terms of Service(URL ; https://richflyer.net/rules.html), these Terms of Service shall take precedence. 
 
-第4条（個人情報等の取り扱い） 
-本SDKは、プッシュ通知機能実現のために端末情報をサーバーに送信します。個人情報及び運営者情報については、当社が別途定める「RichFlyerプライバシーポリシー」に則り、適正に取り扱うこととします。 
+Article 3 (Provision of the SDK)
+1. The Company grants the Developer a limited, worldwide, non-transferable, non-exclusive, non-sublicensable right to use the SDK for the sole purpose of developing application to use the SDK in accordance with the terms and conditions of these Terms of Use. 
+2. The Developer shall obtain the SDK in the manner prescribed by the Company. 
+3. The Developer shall keep the service key issued by the Company at the time of registration in strict confidence and shall not allow any third party to use it.
+4. The Company may upgrade the SDK at the discretion of the Company. In this case, the Company may discontinue support for previous versions of the SDK. In addition, the terms of use of the SDK may be changed due to updates to the OS or web browser installed in mobilephones and tablet computers. 
 
-第5条（権利の帰属・利用） 当社は、本利用規約において明示的に定められたものを除き、開発者に対し、ドキュメント等を含む本SDKに関する著作権、特許権、商標権その他の知的財産権について、何ら譲渡・使用許諾等をするものではありません。 
+Article 4 (Handling of Personal Information)
+This SDK transmits device information to the server in order to achieve the push notification function. Personal information and operator information shall be handled properly in accordance with the "RichFlyer Service Privacy Policy"(URL ; https://richflyer.net/policy.html) that the Company provides separately. 
 
-第6条（利用停止・配信停止） 
-1. 当社は、本SDKに欠陥または第三者の権利・利益侵害の可能性が発見された場合、その他当社が必要と判断する場合には、SDKの利用を停止する場合があります。 
-2. SDKを配信するサーバーが不可抗力により停止された場合、その他当社が必要と判断される場合は、事前の通知をすることなく配信を停止する場合があります。当社は、本項によるSDKの配信停止により運営者または開発者に生じた損害について一切責任を負いません。 
+Article 5 (Ownership and Use of rights)
+1. Except as expressly provided in the Terms of Use, the Company shall not transfer or license the copyrights, patent rights, trademark rights, or any other intellectual property rights related to the SDK, including documents, to developers. 
+2. Any bug reports, feature requests or other feedback provided to the Company by the Operator, the Developer or others to improve the SDK and the functionality of the Service (collectively, the "Feedback") in no event shall any Feedback be deemed to be non-confidential. By providing Feedback, the Feedback Provider grants us a non-exclusive, worldwide, perpetual, irrevocable, irrevocable, transferable, sublicensable, and free license to use such Feedback for any purpose. You may not use the Feedback for any purpose other than the purpose for which it was provided, unless otherwise agreed in advance in writing between such Feedback provider and us prior to providing the Feedback..
 
-第7条（禁止行為） 
-開発者は以下の行為を行なってはいけません。禁止事項に違反したと認めた場合、利用停止等、当社において必要と判断した措置を取ることができるものとし、運営者はこれを異議なく同意するものとします。 
-(1) 本サービスを利用する以外の目的で本SDKを利用すること。 
-(2) 本SDKの複製、改変、リバースエンジニアリング、逆コンパイル、逆アセンブルを行うこと、またこれらに類似した行為を行うこと。 
-(3) 本SDKがサーバーとの間で行う通信の内容を、通信経路上でキャプチャ、改ざんすること、またはこれらに類似した行為を行うこと。 
-(4) OSの改変やツールの利用等、外部から本SDKの本来の動作とは異なる動作をさせるような仕組みを持つアプリを開発すること。 
+Article 6 (Suspension of Use and Distribution)
+1. In the event that the SDK is found to be defective or potentially infringing on the rights and interests of a third party, or in any other case deemed necessary by the Company, the Company may stop the use or delivery of the SDK without prior notice.
+2. If the server that distributes the SDK is shut down due to force majeure, or in any other case deemed necessary by the Company, the Company may stop the distribution of the SDK without prior notice. The Company shall not be responsible for any damage caused to the Operator or the Developer due to the suspension of the SDK distribution of the SDK in accordance with this section. 
 
-第8条（免責） 
-1. 当社は、本SDKを組み込んだことにより直接的または間接的に発生したユーザー、運営者、開発者の損害について、一切賠償責任を負いません。また、本SDKの仕様の変更、配信の中断、終了によって生じたいかなる損害、ならびに本SDKの利用環境についても一切関与せず、一切の責任を負いません。 
-2. 当社は、本SDKがすべての情報端末に対応していることを保証するものではなく、本SDKが組み込まれた開発アプリがインストールされたスマートフォンのOSバージョンアップ等に伴い、本SDKの動作に不具合が生じる可能性があることにつき、ユーザー、運営者、開発者はあらかじめ了承するものとします。当社は、かかる不具合が生じた場合に当社が行うプログラムの修正等により、当該不具合が解消されることを保証するものではありません。また、本SDKがユーザー、運営者、開発者の特定の目的に適合すること、期待する機能・商品的価値・正確性・有用性を有すること、および不具合が生じないことについて、何ら保証するものではありません。 
-3. 開発者は、本サービスの効果測定機能やプッシュ通知配信条件指定機能等の利用のために、本サービスのサーバーに任意に情報を送信、収録させることが可能ですが、当社はその情報の内容には一切関与せず、送信中に発生した情報の消失、毀損、盗聴による情報漏えい等による損害について一切の責任を負いません。 
-4. 開発アプリにおいて、他社製のSDKを利用したことにより本SDKが利用できない状況が発生したり、本SDKを利用したことにより他社製のSDKが利用できなくなる状況が発生した場合について、当社が行うプログラムの修正等によりこの状況を解消する保証はなく、一切の責任を負いません。 
+Article 7 (Prohibited Acts)
+The developer shall not engage in any of the following acts. If the Company determines that a Developer has violated any of the prohibited items, the Company may take measures that it deems necessary, such as suspension of use of the Service, and the Operator shall agree to such measures without objection. 
+(1) To use the SDK for purposes other than the Development of application. 
+(2) To duplicate, modify, reverse engineer, decompile, disassemble, or perform any similar act in the SDK. 
+(3) To capture or falsify the content of communication between the SDK and the server on the communication path, or any similar act. 
+(4) To develop an application that has a mechanism to make the SDK work differently from its original function from the outside, such as modifying the OS or using tools. 
+(5) To remove, conceal or tamper with any proprietary rights notices (including copyright and trademark notices) attached to or included in the SDK.
 
+Article 8 (Disclaimer)
+1. The Company shall not be held liable for any direct or indirect damages to users, operators or developers caused by the incorporation of this SDK. In addition, the Company shall not be responsible for any damages caused by changes in the SDK specifications, interruptions in distribution, or termination of the SDK, and the Company shall not be involved in the usage environment of the SDK.
+2. This SDK is provided on an "as is" basis and the Company shall not guarantee that the SDK is compatible with all information devices, and users, operators, and developers are responsible for the possibility of malfunctions in the operation of the SDK due to OS upgrades, etc. of the mobilephones and the tablet computers in which the SDK is installed. Users, operators, and developers shall agree in advance. The Company shall not guarantee that the bugs in question may be resolved by fixing the program or other measures taken by the Company in the event of a bug. Furthermore, the Company shall not guarantee that the SDK may meet the specific objectives of the user, the operator, or the developer, or that it may have the expected functions, commercial value, accuracy, or usefulness, or that it may be free of defects. 
+3. The Developer may arbitrarily send or record information to the server of the Service for the purpose of using the effectiveness measurement function of the Service or the push notification delivery condition specification function, etc. However, the Company shall not be involved in the content of such information, and Developer shall agree that developer is solely responsible for any damage caused by loss of information, damage, or leakage of information due to hacking that occurs during transmission, Developer agrees the Company shall not responsible for Developer nor any third party.
+4. In the event that the use of a third-party SDK in a Developed Applications results in the unavailability of the SDK, or the use of the SDK results in the unavailability of the third-party SDK, there is no guarantee that the Company's modifications to the program may resolve the situation, and the Company shall not be responsible for any of the following Not owed. 
 
-２０１８年１２月１日　施行 
-２０１９年１１月２２日　改訂
-２０２０年１月３１日　改訂
+Article 9 (Compensation) 
+To the fullest extent permitted by law, Developers may take any and all claims or actions arising from your application's infringement of another's copyright, trademark, patent or other intellectual property rights, defamation, or violation of another's right of publicity or privacy, and your violation of this Agreement. Developer shall agree to defend, indemnify and hold harmless the Company, its affiliates and their respective officers and employees from and against any and all losses, liabilities, damages, costs and expenses (including attorneys' fees), litigation, legal proceedings and all losses, damages, costs and expenses.
+
+Dec. 1, 2018 Effective. 
+November 22, 2019 Revised.
+January 31, 2020 Revised.
+December 14, 2020 Revised.
