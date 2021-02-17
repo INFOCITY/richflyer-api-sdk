@@ -1,6 +1,6 @@
 {
   "name": "richflyer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The SDK that can easily use RichFlyer API",
   "main": "index.js",
   "repository": "github:INFOCITY/richflyer-api-sdk",
