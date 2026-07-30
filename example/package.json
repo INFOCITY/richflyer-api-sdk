@@ -1,0 +1,17 @@
+{
+  "name": "richflyer-example",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Interactive example for the RichFlyer Node.js SDK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "richflyer": "2.0.0"
+  }
+}
